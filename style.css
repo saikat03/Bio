@@ -4,7 +4,7 @@ body{
 
 .half-width{
     width: 40% ;
-    float: left;
+    display: inline-block;
     margin-left: 5%;
     padding-left: 2%;
 }
