@@ -86,3 +86,7 @@ footer{
     text-align: center;
 }
 
+a:hover{
+    color: blue;
+}
+
