@@ -23,7 +23,7 @@ h1{
     font-family: cursive;
 }
 
-#bg{
+body{
     background-image: url(img/bgimg.png);
     background-repeat: no-repeat;
 }
